@@ -100,5 +100,3 @@ Feel free to contribute through issues or pull requests.
 
 This project is licensed under the MIT License.
 ```
-
-Replace `[Demo URL](https://your-demo-url.com)` with the actual URL of your demo.
