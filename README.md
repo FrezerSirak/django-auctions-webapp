@@ -99,4 +99,3 @@ Feel free to contribute through issues or pull requests.
 ## License
 
 This project is licensed under the MIT License.
-```
