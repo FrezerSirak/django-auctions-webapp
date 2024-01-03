@@ -16,7 +16,7 @@ The Auctions Django Project is an online auction platform implemented in Python 
 
 ## Demo
 
-Explore a live demo of the Auctions Django Project at https://youtu.be/uXsCpjPq1oI
+Check out the [video demo](https://youtu.be/bQvHZ2pio2E) to see the program in action.
 
 ## Django Admin Interface
 
